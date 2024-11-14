@@ -11,7 +11,7 @@ Changes are minor:
 - added top silkscreen layer
 - corrected silkscreen VD22 (previously VD27 which existed twice) and C45 (had a drawn footprint but no label)
 - added 4pin Molex connector for power
-- added circuits for Tape-In and 2 additional LEDs (Turbo, 1MB) in the breadboard area
+- added optional circuits for Tape-In and 2 additional LEDs (Turbo, 1MB) in the breadboard area - they are connected via wires on the underside of the board.
 - changed "DEATH TO NATO" to "DEATH TO NATO AND FASCISTS"
 - added small credits on the silkscreen layer
 
