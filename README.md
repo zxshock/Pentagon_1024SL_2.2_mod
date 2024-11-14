@@ -16,6 +16,7 @@ Changes are minor:
 - added small credits on the silkscreen layer
 
  Otherwise the layout is unchanged, successfully prototyped on 14th of November 2024
+ 
  Gerbers were imported in Sprintlayout, soldermask redone (since it can't be imported) and the silkscreen drawn manually.
 
  Tested: 3.5/7.0MHz modes, 1024/128/48k modes, 16c modes, RGB out, LPT out (covox only), Kempston Joystick, Palcoder/composite out, RAM test for 12 hours, tape-in, LEDs, NemoBus with Z-Controller/ZXM-GS/GS (fixed for Pentagon 1024SL 2.2), TSFM
